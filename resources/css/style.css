@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+#home {
+  font-size: 70px;
+  color: white;
+}
+.top {
+  background-image: url("../images/building.png");
+  background-size: cover;
+  background-position: center;
+  font-size: 18px;
+}
