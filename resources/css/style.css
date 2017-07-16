@@ -4,11 +4,27 @@ body {
 }
 #home {
   font-size: 70px;
-  color: white;
 }
 .top {
   background-image: url("../images/building.png");
   background-size: cover;
   background-position: center;
   font-size: 18px;
+}
+#home, #design, #end, .top, a:visited, a:link, a:hover, a:active {
+  color: white;
+}
+#process, h3 {
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+#end {
+  background-color: dimgray;
+  font-size: 11px;
+}
+#design {
+  font-size: 23px;
+  background-image: url("../images/building.png");
 }
